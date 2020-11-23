@@ -1,0 +1,136 @@
+body{
+    margin: 0px;
+    font-family: 'Work Sans',sans-serif;
+    font-weight: 300; 
+  
+}
+
+.tes{
+    background-image: url(libraria.jpg);
+    background-repeat: no-repeat ;
+    margin-top: 0px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    color: indigo;
+    font-size: 30;
+   
+}
+h3{
+    margin-left: 750px;
+}
+div{
+    text-align: center;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header,footer{
+    background: #55d6aa;
+    
+    
+}
+
+table{
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+}
+header::after{
+    content: '' ;
+    display: table;
+    clear: both;
+}
+
+.logo{
+    float: left;
+    padding: 10px;
+}
+
+nav{
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 30px;
+    padding-top: 60px ;
+    text-transform: uppercase;
+    color:white;
+    font-size: 20 ;
+    
+
+    position: relative;
+}
+
+nav a::before{
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: #444;
+
+    position: absolute;
+    top: 30px;
+    width: 0px;
+    transition: all ease-in-out 1s;
+}
+
+nav a:hover::before{
+    width: 30px;
+}
+
+h2{
+    padding-top: 40px;
+}
+
+menu ul{
+    margin-top: 80px;
+    margin-left: 400px ;
+    padding: 0px;
+    list-style: none;
+}
+
+menu ul li{
+    float: left;
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    opacity: .7;
+    line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+    list-style: none;
+}
+
+menu ul li ol{
+    display: none;
+}
+menu ul li:hover {
+    display: block;
+    background-color: green;
+}
+menu ul li:hover ol{
+    display: block;
+}
+
+menu li ol li{
+    text-decoration: none;
+    color: white;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}

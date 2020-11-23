@@ -1,0 +1,26 @@
+
+form{
+  width: 550px;
+  height: 450px;
+  border: 2px lightgreen solid;
+  background-image: url(regjistrimi.gif);
+  margin-top: 100px;
+  margin-left: 200px;
+  padding: 26px;
+}
+
+h3{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+label{
+    width: 6em;
+    float: left;
+}
+
+nav{
+  width: 200px;
+  height: 200px;
+ color: red;
+}
+

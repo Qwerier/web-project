@@ -1,0 +1,22 @@
+nav{
+    width: 200px;
+    height: 300px;
+}
+
+nav:hover{
+    transition: ease-in-out 2s;
+    width: 300px;
+    height: 400px
+    font-size: 25 ;
+}
+
+body{
+    background-color: #55d6aa;
+    text-align: center;
+
+}
+ol li{
+    width: 500px;
+    border: 2px solid navy;
+    margin-left: 460px;
+}
