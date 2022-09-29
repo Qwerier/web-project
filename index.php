@@ -36,7 +36,7 @@
             echo "<li><a href='shporta.php'>Shporta</a></li>";
           
           if(isset($_SESSION['Emri']) )
-            echo "<li><a href='hyr.php'>Dil</a></li>";
+            echo "<li><a href='dil.php'>Dil</a></li>";
           else if(!isset($_SESSION['Emri']) )
             echo "<li><a href='hyr.php'>Hyr</a></li>";
 
