@@ -5,7 +5,7 @@
     </head>
 
     <body>
-        <img src="logua.bmp" width = "150px" height="150px">
+        <img src="img_page\\logua.bmp" width = "150px" height="150px">
 
         <section>
             <ol>
