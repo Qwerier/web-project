@@ -7,7 +7,7 @@ Before deployment, one should download the ```database.sql``` file as it contain
 # About the project
 Bibliophile is a demo web-app that allows the users to browse, search and buy books made available to them by the bookshop. First they are redirected to the main page featuring a choice of random books and the options to log into the account.
 
-![alt text](https://github.com/Qwerier/web-project/blob/main/unlogged.PNG?raw=true =400x400)
+<img src="https://github.com/Qwerier/web-project/blob/main/bibliophile.PNG" width="600">
 
 If one doesn't have an account they can create it and will be logged in. They can search for  books according to keywords and categories.
 
