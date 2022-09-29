@@ -12,7 +12,7 @@
 
     <body>
       
-     <img src="logua.bmp" width="150px" height="150px">
+     <img src="img_page\\logua.bmp" width="150px" height="150px">
       <h3>Plotesoni te dhenat e meposhtme per tu regjistruar</h3>
         <form action="regjistrohu.php" method="POST" autocomplete="off">
 
