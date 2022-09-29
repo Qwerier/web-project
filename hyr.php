@@ -10,7 +10,7 @@
     </head>
 
     <body>
-      <img src="logua.bmp" width="150px" height="150px">
+      <img src="img_page\\logua.bmp" width="150px" height="150px">
        <h3>Plotesoni te dhenat e meposhtme per te hyre ne platforme</h3>
         <form action="hyr.php" method="POST">
             <div>
