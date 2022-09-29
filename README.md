@@ -9,4 +9,4 @@ Bibliophile is a demo web-app that allows the users to browse, search and buy bo
 
 By clicking the "Shporta" button, the app moves on to the shopping page where the collection of books is displayed. 
 
-![alt text](https://github.com/Qwerier/web-project/main_page.PNG?raw=true)
+![alt text](https://github.com/Qwerier/web-project/bibliophile.PNG?raw=true)
