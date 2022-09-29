@@ -9,7 +9,7 @@ include "lidhjaDB.php";
        <link rel="stylesheet" type="text/css" href="prove.css">
        <style>
            body{
-               background-image: url(libraria.jpg);
+               background-image: url(img_page\\libraria.jpg);
            }
            table{
                color: white;
