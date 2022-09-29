@@ -16,7 +16,7 @@
      <header>
         
         <div class="container">
-         <img class="logo" src="logua.bmp" width="150px" height="150px">
+         <img class="logo" src="img_page\\logua.bmp" width="150px" height="150px">
          
          <h2> Bibliophile</h2>
         <nav>
